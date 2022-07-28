@@ -1,3 +1,5 @@
-const app = require("./src/app")
+const app = require("./src/app");
  
-app.listen(8030, () => console.log("conected in port 8030"))
+const PORT = process.env.PORT;
+
+app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
