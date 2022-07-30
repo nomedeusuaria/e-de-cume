@@ -39,10 +39,10 @@ Conhecer e aprender sobre as PANCs é, sobretudo, valorizar a importâncias dess
 
 | Verbo  |    EndPoint     |       Descrição da Rota             | Status    |
 | ------ | -------------   | ------------------------------------| --------  | 
-| GET    | /pancs          |  Listar todas as doulas             |   200  ✔️ |
-| GET    | /pancs/:id      |  Listar a Doula pela cidade         |   200  ✔️ |
-| PATCH  | /pancs/:id      |  Adicionar uma nova Doula           |   201  ✔️ |
-| DELETE | /pancs/:id      |  Deverá deletar uma Doula por ID    |   200  ✔️ |
+| GET    | /pancs          |  Listar todas as PANCs              |   200  ✔️ |
+| GET    | /pancs/:id      |  Listar pancs por ID                |   200  ✔️ |
+| PATCH  | /pancs/:id      |  Adicionar uma nova PANC            |   201  ✔️ |
+| DELETE | /pancs/:id      |  Deverá deletar uma PANC por ID     |   200  ✔️ |
 
 A documentação pode ser acessada [aqui](https://e-de-cume.herokuapp.com/my-documentation-route/).
 
