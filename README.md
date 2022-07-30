@@ -3,7 +3,9 @@
 </br>
 
 Olá, esta API é referente ao meu projeto final do curso de backend da {Reprograma}, no qual fiz parte da turma On-16. Tendo em vista a atual situação de insegurança alimentar que assola milhões de brasileiros e a recente (re)inserção do Brasil no Mapa da Fome, este projeto tem como objetivo trazer alternativas alimentícias para amenizar e/ou contornar esse problema.
+
 As vezes consideradas como “mato” ou “daninha”, essas hortaliças que crescem em canteiros são, na verdade, ricas em nutrientes e comestíveis. As plantas alimentícias não convencionais (PANCs) são espécies vegetais com uma ou mais partes comestíveis de sua estrutura. Podem ser exóticas, nativas, espontâneas ou cultivadas; são pouco afetadas por pragas e doenças, são bem adaptadas ao clima de sua região e apresentam eficiência na absorção dos nutrientes vindos da terra.
+
 Conhecer e aprender sobre as PANCs é, sobretudo, valorizar a importâncias desses vegetais para a segurança alimentar e nutricional de pessoas. Além de resgatar a tradição que essas plantas tem na culinária e cultura locais de diversas regiões do Brasil.
 
 </br>
