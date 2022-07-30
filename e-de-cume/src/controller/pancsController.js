@@ -101,8 +101,8 @@ module.exports = {
     createPancs,
     findAllPancs,
     findPancsById,
-    findPancsByArea,
-    findPancsByPopularName,
+    //findPancsByArea,
+    //findPancsByPopularName,
     updatePanc,
     deletePancById
 }
